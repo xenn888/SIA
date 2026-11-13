@@ -11,8 +11,8 @@
 // re-syncs on the next write.
 (function () {
   // ===== CONFIG: paste your project URL (Supabase -> Project Settings -> API) =====
-  var SUPABASE_URL = "https://fxiwkhkgbhbwzlbxbitd.supabase.co";
-  var SUPABASE_KEY = "sb_publishable_SGaFx66seurEdlKbesNOlQ_YUd9tgZV";
+  var SUPABASE_URL = "https://priflnofadpqrzkjnomy.supabase.co";
+  var SUPABASE_KEY = "sb_publishable_EA66C8qq2rOfTaKOK0arUg_8yNceHSS";
   // ===============================================================================
 
   var TABLE = "app_kv";
